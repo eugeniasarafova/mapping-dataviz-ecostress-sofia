@@ -19,6 +19,10 @@ Paper - a Python file containing the Jupyter Notebook
 
 #🌍 Maps and visualizations
 
+<img width="708" height="923" alt="fig01 - resized-финал" src="https://github.com/user-attachments/assets/3e19a74e-881b-4944-82e1-3f6d38f416fa" />
+
+
+
 <img width="2907" height="2004" alt="maps_composite - resized" src="https://github.com/user-attachments/assets/8f44343d-6c16-4282-b143-3d365636e431" />
 
 
